@@ -56,7 +56,7 @@ This project extracts text from a PDF resume and converts it into a structured J
 
 3. Run the script:
     ```sh
-    python script_name.py
+    python app1.py
     ```
 
 4. The extracted JSON data will be saved to `ilker_cv_data.json`.

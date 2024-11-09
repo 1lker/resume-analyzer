@@ -64,7 +64,7 @@ This project is an enhanced CV parser and analyzer that leverages OCR and GPT-3.
 
 1. Run the script to analyze a CV:
     ```bash
-    python cv_parser.py
+    python app3.py
     ```
 
 2. The script will process the PDF, extract text, analyze it using GPT-3.5, and save the results in a JSON file.

@@ -53,7 +53,7 @@ numpy
 
 2. Run the main script:
     ```sh
-    python main.py
+    python app2.py
     ```
 
 3. The analysis result will be saved to `cv_analysis.json`.

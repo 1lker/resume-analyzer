@@ -52,7 +52,7 @@ dataclasses
 
 1. Run the main script:
     ```bash
-    python main.py
+    python app4.py
     ```
 
 2. The script will process the specified PDF file and output the analysis as a JSON file.
