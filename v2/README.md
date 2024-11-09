@@ -14,7 +14,7 @@ This project is an enhanced CV parser and analyzer that leverages OCR and GPT-3.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/resume-analyzer.git
+    git clone https://github.com/1lker/resume-analyzer.git
     cd resume-analyzer/v2
     ```
     2. Install the required dependencies:

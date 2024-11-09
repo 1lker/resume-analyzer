@@ -14,7 +14,7 @@ This project extracts text from a PDF resume and converts it into a structured J
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/resume-analyzer.git
+    git clone https://github.com/1lker/resume-analyzer.git
     cd resume-analyzer
     ```
 

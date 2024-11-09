@@ -14,7 +14,7 @@ This project is a comprehensive CV and Resume Analyzer using OpenAI's GPT-4 and 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/resume-analyzer.git
+    git clone https://github.com/1lker/resume-analyzer.git
     cd resume-analyzer/v4
     ```
 

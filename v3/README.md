@@ -13,7 +13,7 @@ This project is a resume analyzer that extracts and analyzes information from PD
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/resume-analyzer.git
+    git clone https://github.com/1lker/resume-analyzer.git
     cd resume-analyzer
     ```
 
