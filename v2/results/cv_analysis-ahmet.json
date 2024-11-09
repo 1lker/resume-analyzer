@@ -1,0 +1,112 @@
+{
+  "Professional_Profile": {
+    "Name": "Ahmet Bakkal",
+    "Location": "Sariyer/Istanbul, Turkey",
+    "Current_Position": "Data Engineer @Bosch | Azure Cloud Associate",
+    "Email": "bakkal.ahmet@outlook.com",
+    "Phone": "+905453565877",
+    "LinkedIn": "www.linkedin.com/in/ahmetbakkal",
+    "Summary": "Passionate about learning and working with others to find simple solutions to complex problems. Interested in studying prediction models and recognition systems in the future."
+  },
+  "Skills_Analysis": {
+    "Top_Skills": [
+      "Python",
+      "Azure Databricks",
+      "MongoDB"
+    ],
+    "Languages": {
+      "Turkish": "Native or Bilingual",
+      "English": "Professional Working"
+    }
+  },
+  "Experience_Timeline": [
+    {
+      "Position": "Data Engineer",
+      "Company": "Bosch",
+      "Duration": "2 years 7 months"
+    },
+    {
+      "Position": "Industry 4.0 Software Developer",
+      "Company": "Canakkale Troy Model United Nations",
+      "Duration": "May 2022 - January 2023 (9 months)",
+      "Responsibilities": [
+        "Developing Industry 4.0 solutions using Python to increase productivity",
+        "Managing Azure Cloud Services and Data Pipeline in Databricks",
+        "Visualizing data using Tableau software",
+        "R&D on Energy Management Solutions and Algorithms",
+        "Azure Cloud Workflows and Azure DevOps",
+        "Local IT Server Management",
+        "Cloud and Computing Environment Management",
+        "Service Level Support (P1, P2, P3)",
+        "Data Science Activities"
+      ]
+    },
+    {
+      "Position": "Lean Production & Sinterflex-Tile Factories Directorate Trainee",
+      "Company": "Kaleseramik Canakkale Kalebodur Seramik Sanayi A.S.",
+      "Duration": "August 2021 - September 2021 (2 months)",
+      "Responsibilities": [
+        "Analyzing production data",
+        "Optimizing machine parameters"
+      ]
+    }
+  ],
+  "Education_And_Certifications": {
+    "Education": [
+      {
+        "Degree": "Bachelor of Engineering - BE, Industrial Engineering",
+        "Institution": "Istanbul Technical University",
+        "Duration": "September 2019 - June 2023"
+      },
+      {
+        "Degree": "Bachelor of Engineering - BE, Electronics and Communications Engineering",
+        "Institution": "Istanbul Technical University",
+        "Duration": "September 2021"
+      },
+      {
+        "Degree": "High School",
+        "Institution": "Gan Science High School",
+        "Duration": "September 2015"
+      }
+    ],
+    "Certifications": [
+      {
+        "Certification": "Google Data Analytics Professional Certificate",
+        "Provider": "Coursera",
+        "Duration": "January 2023 - Present (1 year 11 months)"
+      }
+    ]
+  },
+  "Projects_Portfolio": {
+    "Projects": [
+      "Developing Industry 4.0 solutions using Python",
+      "Managing Azure Cloud Services and Data Pipeline in Databricks",
+      "Visualizing data using Tableau software",
+      "R&D on Energy Management Solutions and Algorithms",
+      "Azure Cloud Workflows and Azure DevOps",
+      "Local IT Server Management",
+      "Cloud and Computing Environment Management",
+      "Service Level Support (P1, P2, P3)",
+      "Data Science Activities"
+    ]
+  },
+  "Career_Highlights": {
+    "Highlights": [
+      "Developing Industry 4.0 solutions",
+      "Managing Azure Cloud Services and Data Pipeline",
+      "R&D on Energy Management Solutions",
+      "Azure Cloud Workflows and Azure DevOps",
+      "Local IT Server Management",
+      "Cloud and Computing Environment Management",
+      "Service Level Support (P1, P2, P3)",
+      "Data Science Activities"
+    ]
+  },
+  "Skills_Gap_Analysis": {
+    "Areas_for_Development": [
+      "Further study on prediction models and recognition systems",
+      "Enhancing skills in data visualization tools",
+      "Deepening knowledge in cloud computing and DevOps"
+    ]
+  }
+}

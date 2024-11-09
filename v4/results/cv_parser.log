@@ -1,0 +1,38 @@
+2024-11-09 13:13:13,219 - __main__ - INFO - Processing PDF: ../profile.pdf
+2024-11-09 13:13:13,411 - __main__ - INFO - Converted PDF to 2 images
+2024-11-09 13:13:13,411 - __main__ - INFO - Processing page 1
+2024-11-09 13:13:15,588 - __main__ - INFO - Page 1 extracted text length: 1889
+2024-11-09 13:13:15,588 - __main__ - INFO - Processing page 2
+2024-11-09 13:13:16,491 - __main__ - INFO - Page 2 extracted text length: 537
+2024-11-09 13:13:16,491 - __main__ - INFO - Total extracted text length: 2426
+2024-11-09 13:13:16,493 - __main__ - INFO - Extracted text length: 2425
+2024-11-09 13:13:16,493 - __main__ - INFO - Attempting GPT API call...
+2024-11-09 13:14:05,275 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 13:14:05,283 - __main__ - INFO - GPT API call successful
+2024-11-09 13:14:05,284 - __main__ - INFO - Analysis keys: dict_keys(['contact_info', 'professional_summary', 'experiences', 'education', 'skills', 'projects', 'achievements', 'metrics', 'analysis_summary'])
+2024-11-09 13:14:05,284 - __main__ - ERROR - Error analyzing file: 'quality_score'
+2024-11-09 13:14:05,284 - __main__ - ERROR - Application error: 'quality_score'
+2024-11-09 13:15:23,447 - __main__ - INFO - Processing PDF: ../profile.pdf
+2024-11-09 13:15:23,634 - __main__ - INFO - Converted PDF to 2 images
+2024-11-09 13:15:23,634 - __main__ - INFO - Processing page 1
+2024-11-09 13:15:25,720 - __main__ - INFO - Page 1 extracted text length: 1889
+2024-11-09 13:15:25,720 - __main__ - INFO - Processing page 2
+2024-11-09 13:15:26,608 - __main__ - INFO - Page 2 extracted text length: 537
+2024-11-09 13:15:26,608 - __main__ - INFO - Total extracted text length: 2426
+2024-11-09 13:15:26,609 - __main__ - INFO - Extracted text length: 2425
+2024-11-09 13:15:26,609 - __main__ - INFO - Attempting GPT API call...
+2024-11-09 13:16:07,565 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 13:16:07,573 - __main__ - INFO - GPT API call successful
+2024-11-09 13:16:07,574 - __main__ - INFO - Analysis keys: dict_keys(['contact_info', 'professional_summary', 'experiences', 'education', 'skills', 'projects', 'achievements', 'metrics', 'analysis_summary'])
+2024-11-09 13:17:46,385 - __main__ - INFO - Processing PDF: ../../resume-recent-ilker-yoru.pdf
+2024-11-09 13:17:46,517 - __main__ - INFO - Converted PDF to 2 images
+2024-11-09 13:17:46,517 - __main__ - INFO - Processing page 1
+2024-11-09 13:17:49,783 - __main__ - INFO - Page 1 extracted text length: 3010
+2024-11-09 13:17:49,783 - __main__ - INFO - Processing page 2
+2024-11-09 13:17:54,052 - __main__ - INFO - Page 2 extracted text length: 4028
+2024-11-09 13:17:54,052 - __main__ - INFO - Total extracted text length: 7038
+2024-11-09 13:17:54,054 - __main__ - INFO - Extracted text length: 7037
+2024-11-09 13:17:54,054 - __main__ - INFO - Attempting GPT API call...
+2024-11-09 13:18:48,555 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 13:18:48,564 - __main__ - INFO - GPT API call successful
+2024-11-09 13:18:48,564 - __main__ - INFO - Analysis keys: dict_keys(['contact_info', 'professional_summary', 'experiences', 'education', 'skills', 'projects', 'achievements', 'metrics', 'analysis_summary'])

@@ -1,0 +1,286 @@
+{
+  "metadata": {
+    "filename": "resume-recent-ilker-yoru.pdf",
+    "processed_date": "2024-11-09T13:18:48.564755",
+    "parser_version": "3.0.0",
+    "language": "mixed",
+    "quality_score": 0.8,
+    "analysis_quality": {
+      "text_extraction_success": true,
+      "content_completeness": 0.8,
+      "processing_duration": "duration_in_seconds",
+      "confidence_score": 0.8
+    }
+  },
+  "analysis": {
+    "contact_info": {
+      "full_name": "Ilker Yoru",
+      "email": "ilker.07yoru@gmail.com",
+      "phone": "0543-303-0766",
+      "location": "Istanbul, Turkey",
+      "linkedin": "LinkedIn",
+      "website": "www.ilkeryoru.com",
+      "other_profiles": []
+    },
+    "professional_summary": {
+      "title": "Full-Stack Developer",
+      "seniority_level": "Junior",
+      "industry_focus": [
+        "Software Development",
+        "Web Development",
+        "Data Engineering",
+        "AI Engineering"
+      ],
+      "career_highlights": [
+        "Architected and sustained high-performance websites",
+        "Directed the migration to AWS Cloud Services",
+        "Developed and refined trainable detection models",
+        "Engineered data extraction tools"
+      ],
+      "years_of_experience": 2.5
+    },
+    "experiences": [
+      {
+        "company": {
+          "name": "isler Kariyer",
+          "industry": "Software Development",
+          "location": "Istanbul, Turkey"
+        },
+        "position": "Full-Stack Developer",
+        "start_date": "January 2022",
+        "end_date": "Present",
+        "duration": 1.0,
+        "is_current": true,
+        "responsibilities": [
+          "Architected and sustained high-performance websites",
+          "Directed the migration to AWS Cloud Services",
+          "Implemented advanced features in ongoing projects",
+          "Optimized website performance and user experience"
+        ],
+        "achievements": [
+          {
+            "description": "Enhanced backend functionality by 50% and achieved a 20% increase in data handling efficiency",
+            "impact": "Boosted overall performance",
+            "metrics": {
+              "value": 20,
+              "unit": "percent",
+              "change_type": "increase"
+            }
+          },
+          {
+            "description": "Achieved a 20% improvement in system performance across 500+ branches",
+            "impact": "Improved system performance",
+            "metrics": {
+              "value": 20,
+              "unit": "percent",
+              "change_type": "increase"
+            }
+          },
+          {
+            "description": "Boosted user engagement and streamlined client interactions",
+            "impact": "Improved user engagement",
+            "metrics": {
+              "value": null,
+              "unit": null,
+              "change_type": null
+            }
+          },
+          {
+            "description": "Led to a 30% increase in site traffic and improved customer satisfaction metrics",
+            "impact": "Increased site traffic",
+            "metrics": {
+              "value": 30,
+              "unit": "percent",
+              "change_type": "increase"
+            }
+          }
+        ],
+        "technologies": [
+          "React.js",
+          "Django",
+          "PHP",
+          "SQL",
+          "AWS Cloud Services",
+          "Next.js",
+          "Tailwind CSS"
+        ],
+        "keywords": [
+          "Full-Stack Development",
+          "Website Performance Optimization",
+          "Data Handling Efficiency",
+          "AWS Cloud Services Migration"
+        ]
+      },
+      {
+        "company": {
+          "name": "MelanomaLens",
+          "industry": "Healthcare Technology",
+          "location": "Istanbul, Turkey"
+        },
+        "position": "Research Assistant as AI Engineer Intern",
+        "start_date": "July 2023",
+        "end_date": "September 2024",
+        "duration": 1.2,
+        "is_current": false,
+        "responsibilities": [
+          "Collected and managed dermatological data",
+          "Developed and refined trainable detection models",
+          "Implemented data augmentation techniques",
+          "Engaged in collaborative research efforts"
+        ],
+        "achievements": [
+          {
+            "description": "Significantly improved F-scores by optimizing model accuracy and reliability",
+            "impact": "Improved model accuracy",
+            "metrics": {
+              "value": null,
+              "unit": null,
+              "change_type": "increase"
+            }
+          },
+          {
+            "description": "Increased model generalization capabilities and contributed to advancements in melanoma diagnostic processes",
+            "impact": "Advanced melanoma diagnostic processes",
+            "metrics": {
+              "value": null,
+              "unit": null,
+              "change_type": "increase"
+            }
+          }
+        ],
+        "technologies": [
+          "AI",
+          "Machine Learning"
+        ],
+        "keywords": [
+          "Dermatological Data Management",
+          "Model Development",
+          "Data Augmentation",
+          "Collaborative Research"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Koc University",
+        "degree": "Bachelor's Degree",
+        "field": "Computer Engineering",
+        "start_date": "2021",
+        "end_date": "Present",
+        "gpa": 3.82,
+        "honors": [
+          "Earned a full 100% scholarship"
+        ],
+        "relevant_coursework": [],
+        "projects": []
+      },
+      {
+        "institution": "Koc University",
+        "degree": "Bachelor's Degree",
+        "field": "Economics",
+        "start_date": "2022",
+        "end_date": "Present",
+        "gpa": 3.82,
+        "honors": [
+          "Double Major"
+        ],
+        "relevant_coursework": [],
+        "projects": []
+      }
+    ],
+    "skills": {
+      "technical": [
+        {
+          "category": "Programming",
+          "skills": [
+            "React.js",
+            "Django",
+            "PHP",
+            "SQL",
+            "Next.js",
+            "Tailwind CSS",
+            "AWS Cloud Services",
+            "AI",
+            "Machine Learning"
+          ],
+          "proficiency": "Advanced"
+        }
+      ],
+      "soft": [
+        "Leadership",
+        "Teamwork",
+        "Problem-solving",
+        "Project Management"
+      ],
+      "languages": [],
+      "certifications": []
+    },
+    "projects": [],
+    "achievements": {
+      "awards": [],
+      "publications": [],
+      "presentations": [],
+      "patents": []
+    },
+    "metrics": {
+      "profile_strength": {
+        "score": 0.8,
+        "factors": {
+          "experience_depth": 0.7,
+          "education_quality": 0.9,
+          "skills_relevance": 0.8,
+          "achievements_impact": 0.7,
+          "presentation_quality": 0.8
+        }
+      },
+      "career_progression": {
+        "total_experience": 2.5,
+        "companies_worked": 5,
+        "average_tenure": 0.5,
+        "promotion_frequency": null,
+        "industry_changes": 2
+      },
+      "skill_analysis": {
+        "technical_diversity": 0.8,
+        "leadership_indicators": 0.7,
+        "communication_skills": 0.7,
+        "domain_expertise": 0.8
+      },
+      "impact_metrics": {
+        "quantified_achievements": 4,
+        "team_size_managed": null,
+        "budget_managed": null,
+        "project_scale": null
+      }
+    },
+    "analysis_summary": {
+      "strengths": [
+        "Strong technical skills",
+        "Experience in diverse industries",
+        "Proven track record of improving system performance",
+        "Leadership experience"
+      ],
+      "improvement_areas": [
+        "More experience in leadership roles",
+        "More certifications to validate skills"
+      ],
+      "unique_selling_points": [
+        "Full-stack development skills",
+        "Experience in AI and machine learning",
+        "Proven ability to improve system performance"
+      ],
+      "career_level_assessment": "Junior level with potential for rapid advancement",
+      "industry_fit": [
+        "Software Development",
+        "Web Development",
+        "Data Engineering",
+        "AI Engineering"
+      ],
+      "next_career_suggestions": [
+        "Senior Developer",
+        "Team Lead",
+        "Project Manager"
+      ]
+    }
+  }
+}

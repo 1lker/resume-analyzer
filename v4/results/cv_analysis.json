@@ -1,0 +1,243 @@
+{
+  "metadata": {
+    "filename": "profile.pdf",
+    "processed_date": "2024-11-09T13:16:07.574278",
+    "parser_version": "3.0.0",
+    "language": "mixed",
+    "quality_score": 0.7
+  },
+  "analysis": {
+    "contact_info": {
+      "full_name": "Ahmet Bakkal",
+      "email": "bakkalFahmet@outlook.com",
+      "phone": "49094535658",
+      "location": "Sariyer, Istanbul, Turkiye",
+      "linkedin": "www.linkedin.com/in/ahmetbakkal",
+      "website": null,
+      "other_profiles": []
+    },
+    "professional_summary": {
+      "title": "Data Engineer",
+      "seniority_level": "Junior",
+      "industry_focus": [
+        "Data Engineering",
+        "Cloud Services",
+        "Industry 4.0"
+      ],
+      "career_highlights": [
+        "Developing Industry 4.0 solutions",
+        "Managing Azure Cloud Services",
+        "Data Pipeline Management"
+      ],
+      "years_of_experience": 2.58
+    },
+    "experiences": [
+      {
+        "company": {
+          "name": "Bosch",
+          "industry": "Manufacturing",
+          "location": "Istanbul, Turkey"
+        },
+        "position": "Data Engineer",
+        "start_date": "January 2023",
+        "end_date": "Present",
+        "duration": 1.92,
+        "is_current": true,
+        "responsibilities": [
+          "Developing Industry 4.0 solutions",
+          "Managing Azure Cloud Services",
+          "Data Pipeline Management",
+          "Visualizing Data",
+          "R&D on 4.0 Energy Management Solutions",
+          "Local IT Server Management",
+          "Cloud and Computing Environment Management",
+          "Service Level Support"
+        ],
+        "achievements": [],
+        "technologies": [
+          "Python",
+          "Azure Cloud",
+          "Databricks",
+          "Tableau"
+        ],
+        "keywords": [
+          "Industry 4.0",
+          "Data Engineering",
+          "Cloud Services"
+        ]
+      },
+      {
+        "company": {
+          "name": "Kaleseramik Canakkale Kalebodur Seramik Sanayi A.S.",
+          "industry": "Manufacturing",
+          "location": "Canakkale, Turkey"
+        },
+        "position": "Lean Production & Sinterflex-Tile Factories Directorate Trainee",
+        "start_date": "August 2021",
+        "end_date": "September 2021",
+        "duration": 0.16,
+        "is_current": false,
+        "responsibilities": [
+          "Analyzing production data",
+          "Finding optimal parameters for machines"
+        ],
+        "achievements": [],
+        "technologies": [],
+        "keywords": [
+          "Lean Production",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Istanbul Technical University",
+        "degree": "Bachelor of Engineering - BE",
+        "field": "Industrial Engineering",
+        "start_date": "September 2019",
+        "end_date": "June 2023",
+        "gpa": null,
+        "honors": [],
+        "relevant_coursework": [],
+        "projects": []
+      },
+      {
+        "institution": "Istanbul Technical University",
+        "degree": "Bachelor of Engineering - BE",
+        "field": "Electronics and Communications Engineering",
+        "start_date": "September 2021",
+        "end_date": null,
+        "gpa": null,
+        "honors": [],
+        "relevant_coursework": [],
+        "projects": []
+      },
+      {
+        "institution": "Gan Science High School",
+        "degree": "High School",
+        "field": null,
+        "start_date": "September 2015",
+        "end_date": null,
+        "gpa": null,
+        "honors": [],
+        "relevant_coursework": [],
+        "projects": []
+      }
+    ],
+    "skills": {
+      "technical": [
+        {
+          "category": "Programming Languages",
+          "skills": [
+            "Python"
+          ],
+          "proficiency": "Intermediate"
+        },
+        {
+          "category": "Cloud Services",
+          "skills": [
+            "Azure Cloud",
+            "Databricks"
+          ],
+          "proficiency": "Intermediate"
+        },
+        {
+          "category": "Data Visualization",
+          "skills": [
+            "Tableau"
+          ],
+          "proficiency": "Intermediate"
+        }
+      ],
+      "soft": [
+        "Teamwork",
+        "Problem-solving",
+        "Project Coordination"
+      ],
+      "languages": [
+        {
+          "language": "Turkish",
+          "proficiency": "Native or Bilingual"
+        },
+        {
+          "language": "English",
+          "proficiency": "Professional Working"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Google Data Analytics Certificate",
+          "issuer": "Google",
+          "date": null,
+          "expires": null
+        }
+      ]
+    },
+    "projects": [],
+    "achievements": {
+      "awards": [],
+      "publications": [],
+      "presentations": [],
+      "patents": []
+    },
+    "metrics": {
+      "profile_strength": {
+        "score": 0.7,
+        "factors": {
+          "experience_depth": 0.6,
+          "education_quality": 0.8,
+          "skills_relevance": 0.7,
+          "achievements_impact": 0.5,
+          "presentation_quality": 0.7
+        }
+      },
+      "career_progression": {
+        "total_experience": 2.58,
+        "companies_worked": 2,
+        "average_tenure": 1.29,
+        "promotion_frequency": null,
+        "industry_changes": 1
+      },
+      "skill_analysis": {
+        "technical_diversity": 0.7,
+        "leadership_indicators": 0.5,
+        "communication_skills": 0.6,
+        "domain_expertise": 0.6
+      },
+      "impact_metrics": {
+        "quantified_achievements": 0,
+        "team_size_managed": null,
+        "budget_managed": null,
+        "project_scale": null
+      }
+    },
+    "analysis_summary": {
+      "strengths": [
+        "Technical skills",
+        "Education from a reputed institution",
+        "Experience in a leading manufacturing company"
+      ],
+      "improvement_areas": [
+        "More quantifiable achievements",
+        "More diverse experience",
+        "More certifications"
+      ],
+      "unique_selling_points": [
+        "Experience in Industry 4.0 solutions",
+        "Managing Azure Cloud Services",
+        "Data Pipeline Management"
+      ],
+      "career_level_assessment": "Junior level with potential for growth",
+      "industry_fit": [
+        "Data Engineering",
+        "Cloud Services",
+        "Manufacturing"
+      ],
+      "next_career_suggestions": [
+        "Data Scientist",
+        "Cloud Solutions Architect",
+        "Machine Learning Engineer"
+      ]
+    }
+  }
+}

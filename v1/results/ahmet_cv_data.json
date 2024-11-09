@@ -1,0 +1,92 @@
+{
+    "Summary": "Since | was little, | have a huge passion in learning. | enjoyed working with the others to came up simple solutions to complex problem. That’s why in the future, I’d like to study about prediction models and recognition systems with my team.",
+    "Personal_Info": {
+        "Location": "Sariyer/Istanbul, Turkey",
+        "Phone": "+905453565877",
+        "Email": "bakkal.ahmet@outlook.com",
+        "LinkedIn": "www.linkedin.com/in/ahmetbakkal"
+    },
+    "Education": [
+        {
+            "University": "Istanbul Technical University",
+            "Degree": "Bachelor of Engineering - BE, Industrial Engineering",
+            "Duration": "September 2019 - June 2023"
+        },
+        {
+            "University": "Istanbul Technical University",
+            "Degree": "Bachelor of Engineering - BE, Electronics and Communications Engineering",
+            "Duration": "September 2021"
+        },
+        {
+            "School": "Can Science High School",
+            "Level": "High School",
+            "Duration": "September 2015"
+        }
+    ],
+    "Experience": [
+        {
+            "Company": "Bosch",
+            "Position": "Data Engineer",
+            "Duration": "2 years 7 months",
+            "Roles": [
+                "Developing Industry 4.0 solutions by Python to increase productivity in production",
+                "Managing the Azure Cloud Services and Data Pipeline in the Databricks",
+                "Visualizing the Data (Creating Reports and Dashboards) by using Tableau software",
+                "R&D on 14.0 Energy Management Solutions and Algorithms",
+                "Azure Cloud Workflows and Azure DevOps",
+                "Local IT Server Management",
+                "Cloud and Computing Environment Management",
+                "Service Level Support (P1, P2, P3)"
+            ]
+        },
+        {
+            "Company": "Bosch",
+            "Position": "Industry 4.0 Software Developer — Data Science Activities",
+            "Duration": "9 months",
+            "Roles": [
+                "Active support to digital transformation projects",
+                "Project coordination with International sales/product development and support teams",
+                "Documentation of Customer Workshops / consulting activities"
+            ]
+        },
+        {
+            "Company": "Kaleseramik Canakkale Kalebodur Seramik Sanayi A.S.",
+            "Position": "Lean Production & Sinterflex-Tile Factories Directorate Trainee",
+            "Duration": "2 months",
+            "Roles": [
+                "Worked as a Lean Production Intern",
+                "Analyzed production data and optimized machine parameters"
+            ]
+        }
+    ],
+    "Skills": [
+        "Python (Programming Language)",
+        "Azure Databricks",
+        "MongoDB"
+    ],
+    "Projects": [],
+    "Certifications": [
+        "Coursera Google Data Analytics Professional Certificate",
+        "Canakkale Troy Model United Nations",
+        "DP-203T00-A: Azure Data Engineer Associate",
+        "McKinsey Forward Program"
+    ],
+    "Languages": {
+        "Turkish": "Native or Bilingual",
+        "English": "Professional Working"
+    },
+    "Strengths": [],
+    "Weaknesses": [],
+    "Volunteer_Activities": [],
+    "Teaching_Assistances": [],
+    "Social_Media_Links": {
+        "LinkedIn": "www.linkedin.com/in/ahmetbakkal"
+    },
+    "Achievements": [
+        "UcAri 14th National Case Competition"
+    ],
+    "Certifications_Details": [],
+    "Project_Impacts": [],
+    "Volunteer_Impacts": [],
+    "Weakness": ""
+}

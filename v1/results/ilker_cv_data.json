@@ -1,0 +1,172 @@
+{
+    "Summary": "I am a highly motivated and skilled individual with a strong background in computer engineering and economics. I have experience in full-stack development, data engineering, mobile development, software engineering, and search engine optimization. I am also actively involved in volunteer activities and teaching assistance roles.",
+    "Personal_Info": {
+        "Name": "Iker Yoru",
+        "Location": "Istanbul, Turkey",
+        "Phone": "0543-303-0766",
+        "Email": "ilker.07yoru@gmail.com",
+        "Website": "www.ilkeryoru.com",
+        "LinkedIn": "linkedin.com/in/ilkeryoru"
+    },
+    "Education": [
+        {
+            "University": "Kog University",
+            "Degree": "Bachelor's Degree in Computer Engineering",
+            "GPA": 3.82,
+            "Scholarship": "Full 100% scholarship for education"
+        },
+        {
+            "University": "Kog University",
+            "Degree": "Bachelor's Degree in Economics",
+            "GPA": 3.82,
+            "Double Major": true
+        }
+    ],
+    "Experience": [
+        {
+            "Company": "isler Kariyer",
+            "Location": "Istanbul, Turkey",
+            "Position": "Full-Stack Developer",
+            "Duration": "January 2022 — Present",
+            "Responsibilities": [
+                "Architected and sustained high-performance websites leveraging React.js, Django, PHP, and SQL",
+                "Directed the migration to AWS Cloud Services",
+                "Implemented advanced features in ongoing projects using Next.js, Tailwind CSS, and Django",
+                "Optimized website performance and user experience"
+            ]
+        },
+        {
+            "Company": "MelanomaLens",
+            "Location": "Istanbul, Turkey",
+            "Position": "Research Assistant as AI Engineer Intern",
+            "Duration": "July 2023 — September 2024",
+            "Responsibilities": [
+                "Collected and managed over 100GB of dermatological data",
+                "Developed and refined trainable detection models",
+                "Implemented data augmentation techniques",
+                "Engaged in collaborative research efforts"
+            ]
+        },
+        {
+            "Company": "Cosmy (Start-up)",
+            "Location": "Istanbul, Turkey",
+            "Position": "Data Engineer Intern",
+            "Duration": "July 2023 — September 2024",
+            "Responsibilities": [
+                "Engineered data extraction tools with Selenium",
+                "Refined and prepared data for machine learning applications",
+                "Spearheaded the creation and launch of the company's website"
+            ]
+        },
+        {
+            "Company": "isler Cepte",
+            "Location": "Istanbul, Turkey",
+            "Position": "Mobile Developer Internship",
+            "Duration": "May 2023 — January 2024",
+            "Responsibilities": [
+                "Developed frontend interfaces using Flutter and Dart",
+                "Integrated Backend API services using Dart",
+                "Managed email communications through Amazon Simple Email Services",
+                "Contributed to scaling the startup"
+            ]
+        },
+        {
+            "Company": "IC Holding",
+            "Location": "Istanbul, Turkey",
+            "Position": "Software Engineer Internship",
+            "Duration": "August 2023 — September 2023",
+            "Responsibilities": [
+                "Developed and debugged software solutions for Makpro",
+                "Implemented data filtering and storage processes using React.js and Redux.js",
+                "Collaborated on cross-functional teams to address and resolve system issues",
+                "Contributed to software design and problem resolution"
+            ]
+        },
+        {
+            "Company": "MZN Danismanhk",
+            "Location": "Istanbul, Turkey",
+            "Position": "Search Engine Optimization Specialist",
+            "Duration": "March 2022 — September 2023",
+            "Responsibilities": [
+                "Drove top-three rankings across 30 domains",
+                "Elevated monthly revenue through strategic SEO optimizations",
+                "Increased monthly traffic and optimized website architecture"
+            ]
+        },
+        {
+            "Company": "Freelance Developer",
+            "Duration": "2022 — Present",
+            "Projects": [
+                "Aktif Zeka",
+                "Bilge Atélye",
+                "Derecehocam"
+            ]
+        }
+    ],
+    "Skills": [
+        "React.js",
+        "Django",
+        "PHP",
+        "SQL",
+        "Next.js",
+        "Tailwind CSS",
+        "Flutter",
+        "Dart",
+        "AWS Cloud Services",
+        "Selenium",
+        "WordPress",
+        "SEO"
+    ],
+    "Projects": {
+        "Aktif Zeka": "Developed an e-commerce platform integrated into the payment system",
+        "Bilge Atélye": "Designed and implemented the user interface using WordPress",
+        "Derecehocam": "Crafted a high-performance e-commerce platform"
+    },
+    "Certifications": [],
+    "Languages": [],
+    "Strengths": [],
+    "Weaknesses": [],
+    "Volunteer_Activities": [
+        {
+            "Organization": "Kog University Science Club",
+            "Role": "Leader of Event and Social Responsibility Committee",
+            "Duration": "June 2023 — June 2024",
+            "Responsibilities": [
+                "Coordinated educational seminars and workshops",
+                "Directed community outreach programs",
+                "Managed projects integrating scientific research with social impact"
+            ]
+        },
+        {
+            "Organization": "IEEE Kog University Student Branch",
+            "Role": "Board Member",
+            "Duration": "June 2023 — June 2024",
+            "Responsibilities": [
+                "Organized technical workshops and seminars",
+                "Led strategic planning of major annual events",
+                "Contributed to increase in club membership"
+            ]
+        }
+    ],
+    "Teaching_Assistances": [
+        {
+            "University": "Kog University",
+            "Course": "Advanced Programming",
+            "Role": "Teaching Assistant",
+            "Duration": "September 2023 — January 2024",
+            "Responsibilities": [
+                "Led COMP132 sessions in Java",
+                "Boosted learning experience for students",
+                "Supervised and evaluated projects and labs"
+            ]
+        }
+    ],
+    "Social_Media_Links": {
+        "LinkedIn": "linkedin.com/in/ilkeryoru"
+    },
+    "Achievements": [],
+    "Certifications_Details": [],
+    "Project_Impacts": [],
+    "Volunteer_Impacts": [],
+    "Weakness": ""
+}

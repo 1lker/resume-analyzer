@@ -1,0 +1,2 @@
+2024-11-09 15:10:41,801 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 15:10:41,808 - __main__ - INFO - CV analysis completed successfully

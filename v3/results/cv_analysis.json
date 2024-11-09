@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "filename": "profile.pdf",
+    "processed_date": "2024-11-09T13:08:19.404967",
+    "parser_version": "3.0.0",
+    "language": "mixed",
+    "quality_score": 0.8
+  },
+  "analysis": {
+    "contact_info": {
+      "email": "bakkalFahmet@outlook.com",
+      "phone": "49094535658",
+      "linkedin": "www.linkedin.com/in/ahmetbakkal",
+      "location": "Sariyer, Istanbul, Turkiye",
+      "website": ""
+    },
+    "experiences": [
+      {
+        "company": "Bosch",
+        "position": "Data Engineer",
+        "start_date": "January 2023",
+        "end_date": "Present",
+        "duration": 1.92,
+        "responsibilities": [
+          "Developing Industry 4.0 solutions by Python to increase productivity in production",
+          "Managing the Azure Cloud Services and Data Pipeline in the Databricks",
+          "Visualizing the Data (Creating Reports and Dashboards) by using Tableau software",
+          "R&D on 14.0 Energy Management Solutions and Algorithms",
+          "Azure Cloud Workflows and Azure DevOps",
+          "Local IT Server Management",
+          "Cloud and Computing Environment Management",
+          "Service Level Support (P1, P2, P3)"
+        ],
+        "achievements": [],
+        "technologies": [
+          "Python",
+          "Azure Cloud Services",
+          "Data Pipeline",
+          "Databricks",
+          "Tableau software",
+          "Azure DevOps"
+        ]
+      },
+      {
+        "company": "Bosch",
+        "position": "Industry 4.0 Software Developer - Data Science Activities",
+        "start_date": "May 2022",
+        "end_date": "January 2023",
+        "duration": 0.75,
+        "responsibilities": [
+          "Active support to digital transformation projects (Implementation including Connectivity, Operation/Maintenance management)",
+          "Project coordination with International sales/product development and support teams",
+          "Documentation of Customer Workshops / consulting activities"
+        ],
+        "achievements": [],
+        "technologies": [
+          "Digital Transformation",
+          "Connectivity",
+          "Operation/Maintenance management"
+        ]
+      },
+      {
+        "company": "Kaleseramik Canakkale Kalebodur Seramik Sanayi A.S.",
+        "position": "Lean Production & Sinterflex-Tile Factories Directorate Trainee",
+        "start_date": "August 2021",
+        "end_date": "September 2021",
+        "duration": 0.17,
+        "responsibilities": [
+          "Worked as a Lean Production Intern",
+          "Analyzing the data of production and trying to find the best parameters for the machines"
+        ],
+        "achievements": [],
+        "technologies": [
+          "Data Analysis"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Istanbul Technical University",
+        "degree": "Bachelor of Engineering - BE",
+        "field": "Industrial Engineering",
+        "start_date": "September 2019",
+        "end_date": "June 2023",
+        "gpa": null,
+        "achievements": []
+      },
+      {
+        "institution": "Istanbul Technical University",
+        "degree": "Bachelor of Engineering - BE",
+        "field": "Electronics and Communications Engineering",
+        "start_date": "September 2021",
+        "end_date": "",
+        "gpa": null,
+        "achievements": []
+      },
+      {
+        "institution": "Gan Science High School",
+        "degree": "High School",
+        "field": "",
+        "start_date": "September 2015",
+        "end_date": "",
+        "gpa": null,
+        "achievements": []
+      }
+    ],
+    "skills": {
+      "technical": [
+        "Python",
+        "Azure Cloud Services",
+        "Data Pipeline",
+        "Databricks",
+        "Tableau software",
+        "Azure DevOps",
+        "Digital Transformation",
+        "Connectivity",
+        "Operation/Maintenance management",
+        "Data Analysis"
+      ],
+      "soft": [
+        "Project coordination",
+        "Documentation",
+        "Consulting"
+      ],
+      "domain": [
+        "Industry 4.0",
+        "Lean Production",
+        "Sinterflex-Tile Factories"
+      ]
+    },
+    "achievements": {
+      "quantifiable": [],
+      "awards": [
+        "Google Data Analysis Certificate",
+        "Centkela Troy Model United",
+        "McKinsey Forward Program"
+      ],
+      "certifications": [
+        "Azure Data Engineer"
+      ]
+    },
+    "metrics": {
+      "total_experience": 2.84,
+      "num_companies": 2,
+      "num_roles": 3,
+      "quality_score": 0.8,
+      "skill_diversity": 0.7,
+      "education_level": "Bachelor of Engineering"
+    }
+  }
+}

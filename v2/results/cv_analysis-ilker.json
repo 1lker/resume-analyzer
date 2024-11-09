@@ -1,0 +1,181 @@
+{
+  "Professional_Profile": {
+    "Name": "IIker Yoru",
+    "Location": "Istanbul, Turkey",
+    "Contact": {
+      "Phone": "0543-303-0766",
+      "Email": "ilker.07yoru@gmail.com",
+      "Website": "www.ilkeryoru.com",
+      "LinkedIn": "Available"
+    },
+    "Summary": "A dedicated Full-Stack Developer and Data Engineer with a strong background in Computer Engineering and Economics. Experienced in architecting high-performance websites, developing machine learning models, and optimizing user experiences. Skilled in a variety of technologies including React.js, Django, Python, SQL, and more."
+  },
+  "Skills_Analysis": {
+    "Technical_Skills": [
+      "React.js",
+      "Django",
+      "PHP",
+      "SQL",
+      "Next.js",
+      "Tailwind CSS",
+      "Flutter",
+      "Dart",
+      "Redux.js",
+      "Selenium",
+      "AWS Cloud Services"
+    ],
+    "Soft_Skills": [
+      "Leadership",
+      "Team Collaboration",
+      "Project Management",
+      "Problem-Solving",
+      "Communication",
+      "Mentoring"
+    ]
+  },
+  "Experience_Timeline": {
+    "January 2022 - Present": {
+      "Company": "Isler Kariyer",
+      "Location": "Istanbul, Turkey",
+      "Position": "Full-Stack Developer",
+      "Responsibilities": [
+        "Architected and sustained high-performance websites using React.js, Django, PHP, and SQL.",
+        "Directed migration to AWS Cloud Services, improving system performance across 500+ branches.",
+        "Implemented advanced features in ongoing projects using Next.js, Tailwind CSS, and Django.",
+        "Optimized website performance, leading to a 30% increase in site traffic."
+      ]
+    },
+    "July 2023 - September 2024": {
+      "Company": "Cosmy (Start-up)",
+      "Location": "Istanbul, Turkey",
+      "Position": "Data Engineer Intern",
+      "Responsibilities": [
+        "Engineered data extraction tools with Selenium for over 40,000 product entries.",
+        "Refined and prepared data for machine learning applications.",
+        "Spearheaded the creation and launch of the company's website."
+      ]
+    },
+    "May 2023 - January 2024": {
+      "Company": "Isler Cepte",
+      "Location": "Istanbul, Turkey",
+      "Position": "Mobile Developer Intern",
+      "Responsibilities": [
+        "Developed frontend interfaces using Flutter and Dart.",
+        "Integrated Backend API services using Dart.",
+        "Managed email communications through Amazon Simple Email Services.",
+        "Contributed to scaling the startup to handle 90 million transactions."
+      ]
+    },
+    "August 2023 - September 2023": {
+      "Company": "IC Holding",
+      "Location": "Istanbul, Turkey",
+      "Position": "Software Engineer Intern",
+      "Responsibilities": [
+        "Developed and debugged software solutions for Makpro.",
+        "Implemented data filtering and storage processes using React.js and Redux.js.",
+        "Collaborated on cross-functional teams to resolve system issues.",
+        "Contributed to software design and problem resolution."
+      ]
+    },
+    "March 2022 - September 2023": {
+      "Company": "MZN Danismanhik",
+      "Location": "Istanbul, Turkey",
+      "Position": "Search Engine Optimization Specialist",
+      "Responsibilities": [
+        "Drove top-three rankings across 30 domains.",
+        "Elevated monthly revenue through strategic SEO optimizations.",
+        "Optimized website architecture and content for better user experience.",
+        "Expanded digital marketing reach for e-learning platforms."
+      ]
+    }
+  },
+  "Education_And_Certifications": {
+    "2021 - Present": {
+      "University": "Kog University",
+      "Degree": "Bachelor's Degree in Computer Engineering",
+      "GPA": "3.82",
+      "Scholarship": "Full 100% scholarship for education"
+    },
+    "2022 - Present": {
+      "University": "Kog University",
+      "Degree": "Bachelor's Degree in Economics",
+      "GPA": "3.82",
+      "Double_Major": true
+    }
+  },
+  "Projects_Portfolio": {
+    "Freelance Projects": [
+      {
+        "Project": "Aktif Zeka",
+        "Description": "Developed an e-commerce platform integrated into the payment system, leading to a 20% increase in sales."
+      },
+      {
+        "Project": "Bilge Atelye",
+        "Description": "Designed and implemented user interface using WordPress for improved visual appeal."
+      },
+      {
+        "Project": "Derecehocam",
+        "Description": "Crafted a high-performance e-commerce platform with WordPress tools, enhancing user experience."
+      }
+    ]
+  },
+  "Career_Highlights": {
+    "Voluntary_Work": [
+      {
+        "Organization": "Kog University Science Club",
+        "Position": "Leader of Event and Social Responsibility Committee",
+        "Responsibilities": [
+          "Coordinated educational seminars and workshops.",
+          "Directed community outreach programs.",
+          "Managed projects integrating scientific research with social impact."
+        ]
+      },
+      {
+        "Organization": "IEEE Kog University Student Branch",
+        "Position": "Board Member",
+        "Responsibilities": [
+          "Organized technical workshops and seminars.",
+          "Led strategic planning of major events.",
+          "Contributed to increased club membership."
+        ]
+      },
+      {
+        "Organization": "Kog University",
+        "Position": "Teaching Assistant",
+        "Course": "Advanced Programming",
+        "Responsibilities": [
+          "Led COMP132 sessions in Java.",
+          "Supervised and evaluated projects and labs.",
+          "Mentored students in coding."
+        ]
+      },
+      {
+        "Organization": "Kog University Society of Women Engineers",
+        "Position": "Mentor",
+        "Responsibilities": [
+          "Led coding course for high school students.",
+          "Utilized platforms for hands-on learning experiences.",
+          "Conducted interactive lectures and practical sessions."
+        ]
+      }
+    ]
+  },
+  "Skills_Gap_Analysis": {
+    "Current_Skills": [
+      "Full-Stack Development",
+      "Machine Learning Model Development",
+      "Data Extraction and Preparation",
+      "Mobile Development",
+      "Search Engine Optimization",
+      "Digital Marketing"
+    ],
+    "Desired_Skills": [
+      "Blockchain Development",
+      "Cybersecurity",
+      "Big Data Analytics",
+      "Artificial Intelligence",
+      "IoT Development"
+    ],
+    "Actions_Needed": "To bridge the skills gap, IIker should consider taking courses or certifications in Blockchain Development, Cybersecurity, Big Data Analytics, Artificial Intelligence, and IoT Development to further enhance expertise and career opportunities."
+  }
+}
