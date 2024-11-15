@@ -1,0 +1,341 @@
+2024-11-11 16:39:49,632 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5011
+ * Running on http://172.21.235.190:5011
+2024-11-11 16:39:49,632 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-11 16:40:07,626 - werkzeug - ERROR - 172.21.235.190 - - [11/Nov/2024 16:40:07] code 400, message Bad request version ('8pZ³\x82\x8b²¯HUÉ[\x8b\x8an\x08P2\x94')
+2024-11-11 16:40:07,626 - werkzeug - INFO - 172.21.235.190 - - [11/Nov/2024 16:40:07] "[35m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03eß·\x13Y¥p\x05\x88\x91Çö\x04\x1bc6,úÍ#\x8b\x01.RfÃ_g»$\x83\x13 ¢\x13æ^ÃÃ\x8c°ÿnß°È\x9cì\x889÷áz\x01±ñ>x}¿Üo(\x1eN\x00 ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063ÊÊ\x00\x00\x00\x0b\x00\x02\x01\x00\x003\x04ï\x04íÊÊ\x00\x01\x00c\x99\x04À&\x96<5jRõÑb\x9dn\x1fl\x90\x0fdN\x1c\x14¬\x97U_u/Pb\x86ùX\x090\x98³-X\x92¶\x8aËÍû\x84\x84 ¨\x0d\x00,2\x12¹\x04l\x83Â\x1cµ%×û\x1d\x01hsº\x90 ¥·ÄÀÆL\x86Ù\x1eUì·Z\x04/\x99R\x8di$\x81.©<\x13¶+@¢!ÚddTSB\x95£±\x18 PË\x96Obµ\x9ck&wkÙ\x19¬D\x07,ú¸\x1eì\x8c*5bt\x8c\x84Âè·aÉ&6;\x0cõx\x13j8­ü\x89\x84\x1aæ\x1ah\x01z^\x91]F1*\x1f8pZ³\x82\x8b²¯HUÉ[\x8b\x8an\x08P2\x94[0m" HTTPStatus.BAD_REQUEST -
+2024-11-11 16:40:07,636 - werkzeug - ERROR - 172.21.235.190 - - [11/Nov/2024 16:40:07] code 400, message Bad request version ('ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sÊÊ\x00\x00\x00#\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00Di\x00\x05\x00\x03\x02h2\x00')
+2024-11-11 16:40:07,636 - werkzeug - INFO - 172.21.235.190 - - [11/Nov/2024 16:40:07] "[35m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03\x1bè\x02\x95ä\x8cr\x8b\x97`\x80-w²>Áa$\x90üÌó´j9\x18OÑ^uÈ\x84 î:\x13o²¤\x05F¸£\x86·\x12"¯\x1aÙöv-ê\x99V(\x1fV\x8aM[\x91¾c\x00 ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sÊÊ\x00\x00\x00#\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00Di\x00\x05\x00\x03\x02h2\x00[0m" HTTPStatus.BAD_REQUEST -
+2024-11-11 16:40:09,798 - werkzeug - INFO - 172.21.235.190 - - [11/Nov/2024 16:40:09] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-11 16:40:09,824 - werkzeug - INFO - 172.21.235.190 - - [11/Nov/2024 16:40:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-11 16:41:25,803 - werkzeug - INFO - 172.21.235.190 - - [11/Nov/2024 16:41:25] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-11 16:43:47,469 - werkzeug - INFO - 172.21.235.190 - - [11/Nov/2024 16:43:47] "[31m[1mGET /upload HTTP/1.1[0m" 405 -
+2024-11-11 16:44:23,663 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5099
+ * Running on http://172.21.235.190:5099
+2024-11-11 16:44:23,663 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-11 16:44:57,305 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5099
+ * Running on http://172.21.235.190:5099
+2024-11-11 16:44:57,305 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-11 16:46:32,479 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5099
+ * Running on http://172.21.235.190:5099
+2024-11-11 16:46:32,479 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-11 16:46:42,535 - analyzer - INFO - Processing PDF: uploads/profile.pdf
+2024-11-11 16:46:43,172 - analyzer - INFO - Converted PDF to 2 images
+2024-11-11 16:46:43,172 - analyzer - INFO - Processing page 1
+2024-11-11 16:46:45,364 - analyzer - INFO - Page 1 extracted text length: 1889
+2024-11-11 16:46:45,365 - analyzer - INFO - Processing page 2
+2024-11-11 16:46:46,272 - analyzer - INFO - Page 2 extracted text length: 537
+2024-11-11 16:46:46,272 - analyzer - INFO - Total extracted text length: 2426
+2024-11-11 16:46:46,274 - analyzer - INFO - Extracted text length: 2425
+2024-11-11 16:46:46,274 - analyzer - INFO - Attempting GPT API call...
+2024-11-11 16:47:51,340 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 16:47:51,350 - analyzer - INFO - GPT API call successful
+2024-11-11 16:47:51,350 - analyzer - INFO - Analysis keys: dict_keys(['contact_info', 'professional_summary', 'experiences', 'education', 'skills', 'projects', 'achievements', 'metrics', 'analysis_summary'])
+2024-11-11 16:47:51,352 - werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 16:47:51] "POST /upload HTTP/1.1" 200 -
+2024-11-11 16:51:15,497 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5099
+ * Running on http://172.21.235.190:5099
+2024-11-11 16:51:15,498 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-11 16:51:36,000 - analyzer - INFO - Processing PDF: uploads/profile.pdf
+2024-11-11 16:51:36,198 - analyzer - INFO - Converted PDF to 2 images
+2024-11-11 16:51:36,198 - analyzer - INFO - Processing page 1
+2024-11-11 16:51:38,260 - analyzer - INFO - Page 1 extracted text length: 1889
+2024-11-11 16:51:38,260 - analyzer - INFO - Processing page 2
+2024-11-11 16:51:39,139 - analyzer - INFO - Page 2 extracted text length: 537
+2024-11-11 16:51:39,140 - analyzer - INFO - Total extracted text length: 2426
+2024-11-11 16:51:39,141 - analyzer - INFO - Extracted text length: 2425
+2024-11-11 16:51:39,141 - analyzer - INFO - Attempting GPT API call...
+2024-11-11 16:52:40,220 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 16:52:40,225 - analyzer - INFO - GPT API call successful
+2024-11-11 16:52:40,225 - analyzer - INFO - Analysis keys: dict_keys(['contact_info', 'professional_summary', 'experiences', 'education', 'skills', 'projects', 'achievements', 'metrics', 'analysis_summary'])
+2024-11-11 16:52:40,226 - werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 16:52:40] "POST /upload HTTP/1.1" 200 -
+2024-11-11 16:52:40,231 - werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 16:52:40] "GET /analysis/830964c2-bb24-4688-b960-8a70112c4ed4 HTTP/1.1" 200 -
+2024-11-11 16:54:23,973 - __main__ - INFO - Processing PDF: ../resume-data/resume-recent-ilker-yoru.pdf
+2024-11-11 16:54:24,128 - __main__ - INFO - Converted PDF to 2 images
+2024-11-11 16:54:24,128 - __main__ - INFO - Processing page 1
+2024-11-11 16:54:27,369 - __main__ - INFO - Page 1 extracted text length: 3010
+2024-11-11 16:54:27,370 - __main__ - INFO - Processing page 2
+2024-11-11 16:54:31,697 - __main__ - INFO - Page 2 extracted text length: 4028
+2024-11-11 16:54:31,698 - __main__ - INFO - Total extracted text length: 7038
+2024-11-11 16:54:31,699 - __main__ - INFO - Extracted text length: 7037
+2024-11-11 16:54:31,699 - __main__ - INFO - Attempting GPT API call...
+2024-11-11 16:55:35,672 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 16:55:35,682 - __main__ - INFO - GPT API call successful
+2024-11-11 16:55:35,682 - __main__ - INFO - Analysis keys: dict_keys(['contact_info', 'professional_summary', 'experiences', 'education', 'skills', 'projects', 'achievements', 'metrics', 'analysis_summary'])
+2024-11-11 16:59:02,599 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5099
+ * Running on http://172.21.235.190:5099
+2024-11-11 16:59:02,599 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-11 16:59:12,127 - analyzer - INFO - Processing PDF: uploads/resume-recent-ilker-yoru.pdf
+2024-11-11 16:59:12,278 - analyzer - INFO - Converted PDF to 2 images
+2024-11-11 16:59:12,278 - analyzer - INFO - Processing page 1
+2024-11-11 16:59:15,504 - analyzer - INFO - Page 1 extracted text length: 3010
+2024-11-11 16:59:15,504 - analyzer - INFO - Processing page 2
+2024-11-11 16:59:19,796 - analyzer - INFO - Page 2 extracted text length: 4028
+2024-11-11 16:59:19,797 - analyzer - INFO - Total extracted text length: 7038
+2024-11-11 16:59:19,798 - analyzer - INFO - Extracted text length: 7037
+2024-11-11 16:59:19,798 - analyzer - INFO - Attempting GPT API call...
+2024-11-11 17:00:40,319 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 17:00:40,330 - analyzer - INFO - GPT API call successful
+2024-11-11 17:00:40,330 - analyzer - INFO - Analysis keys: dict_keys(['contact_info', 'professional_summary', 'experiences', 'education', 'skills', 'projects', 'achievements', 'metrics', 'analysis_summary'])
+2024-11-11 17:00:40,332 - werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 17:00:40] "POST /upload HTTP/1.1" 200 -
+2024-11-11 17:00:40,338 - werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 17:00:40] "GET /analysis/04f9c8c9-6bf1-4718-a7fb-71a679f7d375 HTTP/1.1" 200 -
+2024-11-11 21:35:02,395 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5099
+ * Running on http://172.21.235.190:5099
+2024-11-11 21:35:02,395 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-11 21:35:16,148 - werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 21:35:16] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-11 21:35:16,178 - werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 21:35:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-11 21:35:22,068 - werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 21:35:22] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-11 21:35:22,100 - werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 21:35:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-11 21:35:23,750 - werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 21:35:23] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-11 21:35:28,238 - werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 21:35:28] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-11 22:01:48,556 - werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 22:01:48] "[33mGET /api/analyses HTTP/1.1[0m" 404 -
+2024-11-11 22:02:06,287 - werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 22:02:06] "[33mGET /api/analyses HTTP/1.1[0m" 404 -
+2024-11-11 22:02:20,029 - werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 22:02:20] "[33mGET /analyses HTTP/1.1[0m" 404 -
+2024-11-11 22:02:21,906 - werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 22:02:21] "[33mGET /analyses HTTP/1.1[0m" 404 -
+2024-11-11 22:02:23,084 - werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 22:02:23] "[33mGET /analyses HTTP/1.1[0m" 404 -
+2024-11-11 22:02:28,137 - werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 22:02:28] "[33mGET /analyses HTTP/1.1[0m" 404 -
+2024-11-11 22:02:30,279 - werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 22:02:30] "[33mGET /analyses HTTP/1.1[0m" 404 -
+2024-11-11 22:02:51,645 - werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 22:02:51] "[33mGET /analyses HTTP/1.1[0m" 404 -
+2024-11-11 22:05:04,040 - analyzer - INFO - Processing PDF: uploads/resume-recent-ilker-yoru.pdf
+2024-11-11 22:05:04,326 - analyzer - INFO - Converted PDF to 2 images
+2024-11-11 22:05:04,326 - analyzer - INFO - Processing page 1
+2024-11-11 22:05:07,701 - analyzer - INFO - Page 1 extracted text length: 3010
+2024-11-11 22:05:07,703 - analyzer - INFO - Processing page 2
+2024-11-11 22:05:12,053 - analyzer - INFO - Page 2 extracted text length: 4028
+2024-11-11 22:05:12,054 - analyzer - INFO - Total extracted text length: 7038
+2024-11-11 22:05:12,055 - analyzer - INFO - Extracted text length: 7037
+2024-11-11 22:05:12,055 - analyzer - INFO - Attempting GPT API call...
+2024-11-11 22:07:30,991 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 22:07:31,168 - analyzer - INFO - GPT API call successful
+2024-11-11 22:07:31,168 - analyzer - INFO - Analysis keys: dict_keys(['contact_info', 'professional_summary', 'experiences', 'education', 'skills', 'projects', 'achievements', 'metrics', 'analysis_summary'])
+2024-11-11 22:07:31,171 - werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 22:07:31] "POST /upload HTTP/1.1" 200 -
+2024-11-11 22:07:45,298 - werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 22:07:45] "[33mGET /analyses HTTP/1.1[0m" 404 -
+2024-11-11 22:07:49,713 - werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 22:07:49] "[33mGET /analyses HTTP/1.1[0m" 404 -
+2024-11-11 22:07:50,450 - werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 22:07:50] "[33mGET /analyses HTTP/1.1[0m" 404 -
+2024-11-11 22:07:50,948 - werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 22:07:50] "[33mGET /analyses HTTP/1.1[0m" 404 -
+2024-11-11 22:16:51,481 - __main__ - INFO - Processing PDF: ../resume-data/resume-recent-ilker-yoru.pdf
+2024-11-11 22:16:51,632 - __main__ - INFO - Converted PDF to 2 images
+2024-11-11 22:16:51,632 - __main__ - INFO - Processing page 1
+2024-11-11 22:16:55,012 - __main__ - INFO - Page 1 extracted text length: 3010
+2024-11-11 22:16:55,012 - __main__ - INFO - Processing page 2
+2024-11-11 22:16:59,671 - __main__ - INFO - Page 2 extracted text length: 4028
+2024-11-11 22:16:59,672 - __main__ - INFO - Total extracted text length: 7038
+2024-11-11 22:16:59,674 - __main__ - INFO - Extracted text length: 7037
+2024-11-11 22:16:59,674 - __main__ - INFO - Attempting GPT API call...
+2024-11-11 22:17:00,083 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-11 22:17:00,086 - __main__ - ERROR - Error in GPT analysis: Error code: 400 - {'error': {'message': "This model's maximum context length is 8192 tokens. However, you requested 10769 tokens (2769 in the messages, 8000 in the completion). Please reduce the length of the messages or completion.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+2024-11-11 22:17:00,086 - __main__ - ERROR - Error type: <class 'openai.BadRequestError'>
+2024-11-11 22:17:00,086 - __main__ - ERROR - Full error details: 
+Traceback (most recent call last):
+  File "/Users/ilkeryoru/Desktop/resume-analyzer/backend/analyzer.py", line 394, in _analyze_with_gpt
+    response = self.client.chat.completions.create(
+  File "/Users/ilkeryoru/Desktop/resume-analyzer/backend/venv/lib/python3.10/site-packages/openai/_utils/_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/ilkeryoru/Desktop/resume-analyzer/backend/venv/lib/python3.10/site-packages/openai/resources/chat/completions.py", line 829, in create
+    return self._post(
+  File "/Users/ilkeryoru/Desktop/resume-analyzer/backend/venv/lib/python3.10/site-packages/openai/_base_client.py", line 1278, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "/Users/ilkeryoru/Desktop/resume-analyzer/backend/venv/lib/python3.10/site-packages/openai/_base_client.py", line 955, in request
+    return self._request(
+  File "/Users/ilkeryoru/Desktop/resume-analyzer/backend/venv/lib/python3.10/site-packages/openai/_base_client.py", line 1059, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'message': "This model's maximum context length is 8192 tokens. However, you requested 10769 tokens (2769 in the messages, 8000 in the completion). Please reduce the length of the messages or completion.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+2024-11-11 22:18:58,049 - __main__ - INFO - Processing PDF: ../resume-data/resume-recent-ilker-yoru.pdf
+2024-11-11 22:18:58,199 - __main__ - INFO - Converted PDF to 2 images
+2024-11-11 22:18:58,199 - __main__ - INFO - Processing page 1
+2024-11-11 22:19:01,486 - __main__ - INFO - Page 1 extracted text length: 3010
+2024-11-11 22:19:01,486 - __main__ - INFO - Processing page 2
+2024-11-11 22:19:05,789 - __main__ - INFO - Page 2 extracted text length: 4028
+2024-11-11 22:19:05,790 - __main__ - INFO - Total extracted text length: 7038
+2024-11-11 22:19:05,792 - __main__ - INFO - Extracted text length: 7037
+2024-11-11 22:19:05,792 - __main__ - INFO - Attempting GPT API call...
+2024-11-11 22:20:06,337 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 22:20:06,351 - __main__ - INFO - GPT API call successful
+2024-11-11 22:20:06,352 - __main__ - INFO - Analysis keys: dict_keys(['contact_info', 'professional_summary', 'experiences', 'education', 'skills', 'projects', 'achievements', 'metrics', 'analysis_summary'])
+2024-11-11 22:22:49,016 - __main__ - INFO - Processing PDF: ../resume-data/resume-recent-ilker-yoru.pdf
+2024-11-11 22:22:49,162 - __main__ - INFO - Converted PDF to 2 images
+2024-11-11 22:22:49,162 - __main__ - INFO - Processing page 1
+2024-11-11 22:22:52,440 - __main__ - INFO - Page 1 extracted text length: 3010
+2024-11-11 22:22:52,440 - __main__ - INFO - Processing page 2
+2024-11-11 22:22:56,806 - __main__ - INFO - Page 2 extracted text length: 4028
+2024-11-11 22:22:56,806 - __main__ - INFO - Total extracted text length: 7038
+2024-11-11 22:22:56,808 - __main__ - INFO - Extracted text length: 7037
+2024-11-11 22:22:56,808 - __main__ - INFO - Attempting GPT API call...
+2024-11-11 22:25:20,946 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 22:25:21,149 - __main__ - INFO - GPT API call successful
+2024-11-11 22:25:21,149 - __main__ - INFO - Analyzed 7 experiences
+2024-11-12 09:50:02,783 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5099
+ * Running on http://172.17.234.69:5099
+2024-11-12 09:50:02,783 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-12 09:51:13,584 - analyzer - INFO - Processing PDF: uploads/funda-hanim.pdf
+2024-11-12 09:51:13,815 - analyzer - INFO - Converted PDF to 2 images
+2024-11-12 09:51:13,815 - analyzer - INFO - Processing page 1
+2024-11-12 09:51:15,277 - analyzer - INFO - Page 1 extracted text length: 1350
+2024-11-12 09:51:15,278 - analyzer - INFO - Processing page 2
+2024-11-12 09:51:16,250 - analyzer - INFO - Page 2 extracted text length: 636
+2024-11-12 09:51:16,250 - analyzer - INFO - Total extracted text length: 1973
+2024-11-12 09:51:16,252 - analyzer - INFO - Extracted text length: 1972
+2024-11-12 09:51:16,252 - analyzer - INFO - Attempting GPT API call...
+2024-11-12 09:52:02,594 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 09:52:02,602 - analyzer - INFO - GPT API call successful
+2024-11-12 09:52:02,603 - analyzer - INFO - Analyzed 2 experiences
+2024-11-12 09:52:02,604 - werkzeug - INFO - 127.0.0.1 - - [12/Nov/2024 09:52:02] "POST /upload HTTP/1.1" 200 -
+2024-11-12 09:52:02,607 - werkzeug - INFO - 127.0.0.1 - - [12/Nov/2024 09:52:02] "GET /analysis/76dedc33-3da1-421e-b7c3-dfb5f8e2fd31 HTTP/1.1" 200 -
+2024-11-12 10:04:41,738 - __main__ - INFO - Processing PDF: ./funda-hanim.pdf
+2024-11-12 10:04:41,924 - __main__ - INFO - Converted PDF to 2 images
+2024-11-12 10:04:41,924 - __main__ - INFO - Processing page 1
+2024-11-12 10:04:43,325 - __main__ - INFO - Page 1 extracted text length: 1350
+2024-11-12 10:04:43,325 - __main__ - INFO - Processing page 2
+2024-11-12 10:04:44,230 - __main__ - INFO - Page 2 extracted text length: 636
+2024-11-12 10:04:44,230 - __main__ - INFO - Total extracted text length: 1973
+2024-11-12 10:04:44,231 - __main__ - INFO - Extracted text length: 1972
+2024-11-12 10:04:44,231 - __main__ - INFO - Attempting GPT API call...
+2024-11-12 10:05:39,646 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 10:05:39,666 - __main__ - INFO - GPT API call successful
+2024-11-12 10:05:39,666 - __main__ - INFO - Analyzed 2 experiences
+2024-11-12 10:12:27,890 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5099
+ * Running on http://172.17.234.69:5099
+2024-11-12 10:12:27,890 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-12 10:12:53,835 - analyzer - INFO - Processing PDF: uploads/funda-hanim.pdf
+2024-11-12 10:12:54,017 - analyzer - INFO - Converted PDF to 2 images
+2024-11-12 10:12:54,018 - analyzer - INFO - Processing page 1
+2024-11-12 10:12:55,421 - analyzer - INFO - Page 1 extracted text length: 1350
+2024-11-12 10:12:55,422 - analyzer - INFO - Processing page 2
+2024-11-12 10:12:56,321 - analyzer - INFO - Page 2 extracted text length: 636
+2024-11-12 10:12:56,321 - analyzer - INFO - Total extracted text length: 1973
+2024-11-12 10:12:56,323 - analyzer - INFO - Extracted text length: 1972
+2024-11-12 10:12:56,323 - analyzer - INFO - Attempting GPT API call...
+2024-11-12 10:13:35,530 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 10:13:35,540 - analyzer - INFO - GPT API call successful
+2024-11-12 10:13:35,540 - analyzer - ERROR - Error in GPT analysis: Expecting value: line 1 column 1 (char 0)
+2024-11-12 10:13:35,540 - analyzer - ERROR - Error type: <class 'json.decoder.JSONDecodeError'>
+2024-11-12 10:13:35,540 - analyzer - ERROR - Full error details: 
+Traceback (most recent call last):
+  File "/Users/ilkeryoru/Desktop/resume-analyzer/backend/analyzer.py", line 276, in _analyze_with_gpt
+    analysis = json.loads(response.choices[0].message.content)
+  File "/Users/ilkeryoru/anaconda3/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/Users/ilkeryoru/anaconda3/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/Users/ilkeryoru/anaconda3/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2024-11-12 10:13:35,545 - werkzeug - INFO - 127.0.0.1 - - [12/Nov/2024 10:13:35] "POST /upload HTTP/1.1" 200 -
+2024-11-12 10:15:21,086 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5099
+ * Running on http://172.17.234.69:5099
+2024-11-12 10:15:21,086 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-12 10:15:31,688 - analyzer - INFO - Processing PDF: uploads/funda-hanim.pdf
+2024-11-12 10:15:31,868 - analyzer - INFO - Converted PDF to 2 images
+2024-11-12 10:15:31,868 - analyzer - INFO - Processing page 1
+2024-11-12 10:15:33,245 - analyzer - INFO - Page 1 extracted text length: 1350
+2024-11-12 10:15:33,245 - analyzer - INFO - Processing page 2
+2024-11-12 10:15:34,132 - analyzer - INFO - Page 2 extracted text length: 636
+2024-11-12 10:15:34,132 - analyzer - INFO - Total extracted text length: 1973
+2024-11-12 10:15:34,134 - analyzer - INFO - Extracted text length: 1972
+2024-11-12 10:15:34,134 - analyzer - INFO - Attempting GPT API call...
+2024-11-12 10:16:50,116 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 10:16:50,130 - analyzer - INFO - GPT API call successful
+2024-11-12 10:16:50,130 - analyzer - INFO - Analyzed 6 experiences
+2024-11-12 10:16:50,132 - werkzeug - INFO - 127.0.0.1 - - [12/Nov/2024 10:16:50] "POST /upload HTTP/1.1" 200 -
+2024-11-12 10:16:50,139 - werkzeug - INFO - 127.0.0.1 - - [12/Nov/2024 10:16:50] "GET /analysis/3fe512ac-50df-4a09-992c-b5a424e01344 HTTP/1.1" 200 -
+2024-11-12 10:25:47,023 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5099
+ * Running on http://172.17.234.69:5099
+2024-11-12 10:25:47,023 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-12 10:26:00,076 - analyzer - INFO - Processing PDF: uploads/funda-hanim.pdf
+2024-11-12 10:26:00,288 - analyzer - INFO - Converted PDF to 2 images
+2024-11-12 10:26:00,288 - analyzer - INFO - Processing page 1
+2024-11-12 10:26:01,689 - analyzer - INFO - Page 1 extracted text length: 1350
+2024-11-12 10:26:01,689 - analyzer - INFO - Processing page 2
+2024-11-12 10:26:02,580 - analyzer - INFO - Page 2 extracted text length: 636
+2024-11-12 10:26:02,581 - analyzer - INFO - Total extracted text length: 1973
+2024-11-12 10:26:02,582 - analyzer - INFO - Extracted text length: 1972
+2024-11-12 10:26:02,582 - analyzer - INFO - Attempting GPT API call...
+2024-11-12 10:26:50,712 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 10:26:50,721 - analyzer - INFO - GPT API call successful
+2024-11-12 10:26:50,722 - analyzer - ERROR - Error in GPT analysis: Expecting value: line 1 column 1 (char 0)
+2024-11-12 10:26:50,722 - analyzer - ERROR - Error type: <class 'json.decoder.JSONDecodeError'>
+2024-11-12 10:26:50,722 - analyzer - ERROR - Full error details: 
+Traceback (most recent call last):
+  File "/Users/ilkeryoru/Desktop/resume-analyzer/backend/analyzer.py", line 276, in _analyze_with_gpt
+    analysis = json.loads(response.choices[0].message.content)
+  File "/Users/ilkeryoru/anaconda3/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/Users/ilkeryoru/anaconda3/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/Users/ilkeryoru/anaconda3/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2024-11-12 10:26:50,726 - werkzeug - INFO - 127.0.0.1 - - [12/Nov/2024 10:26:50] "POST /upload HTTP/1.1" 200 -
+2024-11-12 10:26:50,730 - werkzeug - INFO - 127.0.0.1 - - [12/Nov/2024 10:26:50] "GET /analysis/d51c37f5-879b-40a6-95ac-0a161eaea835 HTTP/1.1" 200 -
+2024-11-12 10:32:21,671 - analyzer - INFO - Processing PDF: uploads/funda-hanim.pdf
+2024-11-12 10:32:21,872 - analyzer - INFO - Converted PDF to 2 images
+2024-11-12 10:32:21,872 - analyzer - INFO - Processing page 1
+2024-11-12 10:32:23,292 - analyzer - INFO - Page 1 extracted text length: 1350
+2024-11-12 10:32:23,293 - analyzer - INFO - Processing page 2
+2024-11-12 10:32:24,217 - analyzer - INFO - Page 2 extracted text length: 636
+2024-11-12 10:32:24,218 - analyzer - INFO - Total extracted text length: 1973
+2024-11-12 10:32:24,219 - analyzer - INFO - Extracted text length: 1972
+2024-11-12 10:32:24,219 - analyzer - INFO - Attempting GPT API call...
+2024-11-12 10:33:23,242 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 10:33:23,244 - analyzer - INFO - GPT API call successful
+2024-11-12 10:33:23,245 - analyzer - INFO - Analyzed 3 experiences
+2024-11-12 10:33:23,246 - werkzeug - INFO - 127.0.0.1 - - [12/Nov/2024 10:33:23] "POST /upload HTTP/1.1" 200 -
+2024-11-12 10:33:23,251 - werkzeug - INFO - 127.0.0.1 - - [12/Nov/2024 10:33:23] "GET /analysis/3b9f8b04-56a1-4c77-be64-a941bd1efc13 HTTP/1.1" 200 -
+2024-11-12 13:07:29,589 - analyzer - INFO - Processing PDF: uploads/profile.pdf
+2024-11-12 13:07:29,783 - analyzer - INFO - Converted PDF to 2 images
+2024-11-12 13:07:29,783 - analyzer - INFO - Processing page 1
+2024-11-12 13:07:31,877 - analyzer - INFO - Page 1 extracted text length: 1889
+2024-11-12 13:07:31,877 - analyzer - INFO - Processing page 2
+2024-11-12 13:07:32,776 - analyzer - INFO - Page 2 extracted text length: 537
+2024-11-12 13:07:32,776 - analyzer - INFO - Total extracted text length: 2426
+2024-11-12 13:07:32,778 - analyzer - INFO - Extracted text length: 2425
+2024-11-12 13:07:32,778 - analyzer - INFO - Attempting GPT API call...
+2024-11-12 13:08:16,798 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 13:08:16,802 - analyzer - INFO - GPT API call successful
+2024-11-12 13:08:16,802 - analyzer - INFO - Analyzed 2 experiences
+2024-11-12 13:08:16,805 - werkzeug - INFO - 127.0.0.1 - - [12/Nov/2024 13:08:16] "POST /upload HTTP/1.1" 200 -
+2024-11-12 13:08:16,810 - werkzeug - INFO - 127.0.0.1 - - [12/Nov/2024 13:08:16] "GET /analysis/a9977614-c97c-4e23-b7e8-e3dc324e9ed5 HTTP/1.1" 200 -
+2024-11-12 17:15:52,959 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5099
+ * Running on http://172.21.235.190:5099
+2024-11-12 17:15:52,959 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-12 17:15:56,191 - analyzer - INFO - Processing PDF: uploads/resume-recent-ilker-yoru.pdf
+2024-11-12 17:15:56,476 - analyzer - INFO - Converted PDF to 2 images
+2024-11-12 17:15:56,476 - analyzer - INFO - Processing page 1
+2024-11-12 17:15:59,863 - analyzer - INFO - Page 1 extracted text length: 3010
+2024-11-12 17:15:59,864 - analyzer - INFO - Processing page 2
+2024-11-12 17:16:04,225 - analyzer - INFO - Page 2 extracted text length: 4028
+2024-11-12 17:16:04,226 - analyzer - INFO - Total extracted text length: 7038
+2024-11-12 17:16:04,227 - analyzer - INFO - Extracted text length: 7037
+2024-11-12 17:16:04,227 - analyzer - INFO - Attempting GPT API call...
+2024-11-12 17:18:18,024 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 17:18:18,037 - analyzer - INFO - GPT API call successful
+2024-11-12 17:18:18,038 - analyzer - INFO - Analyzed 7 experiences
+2024-11-12 17:18:18,040 - werkzeug - INFO - 127.0.0.1 - - [12/Nov/2024 17:18:18] "POST /upload HTTP/1.1" 200 -
+2024-11-12 17:18:18,047 - werkzeug - INFO - 127.0.0.1 - - [12/Nov/2024 17:18:18] "GET /analysis/c16bc09b-c92f-4e6b-8999-6ae8fa1a6d2e HTTP/1.1" 200 -
+2024-11-15 15:32:34,613 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5099
+ * Running on http://172.17.234.69:5099
+2024-11-15 15:32:34,613 - werkzeug - INFO - [33mPress CTRL+C to quit[0m

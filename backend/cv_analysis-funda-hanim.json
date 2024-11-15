@@ -1,0 +1,201 @@
+{
+  "metadata": {
+    "filename": "funda-hanim.pdf",
+    "processed_date": "2024-11-12T10:05:39.667075",
+    "parser_version": "4.0.0",
+    "language": "mixed",
+    "quality_score": 0.8,
+    "analysis_quality": {
+      "text_extraction_success": true,
+      "content_completeness": 0.8,
+      "processing_duration": "duration_in_seconds",
+      "confidence_score": 0.8
+    }
+  },
+  "analysis": {
+    "contact_info": {
+      "full_name": "Elif Funda Caliskan",
+      "email": "fndsahin@gmail.com",
+      "phone": null,
+      "location": "Turkey",
+      "linkedin": "Caliskan-oas6Z2b8brillinked",
+      "website": null,
+      "other_profiles": []
+    },
+    "professional_summary": {
+      "title": "Digital Transformation Manager",
+      "seniority_level": "Manager",
+      "industry_focus": [
+        "Digital Transformation",
+        "Lean Management",
+        "Sustainability"
+      ],
+      "career_highlights": [
+        "Lean and Digital Transformation Consultancy",
+        "Digital Transformation solutions implementation",
+        "Business development for Turkey and Middle East"
+      ],
+      "years_of_experience": 14.2
+    },
+    "experiences": [
+      {
+        "company": {
+          "name": "Bosch Turkiye",
+          "industry": "Manufacturing",
+          "location": "Turkey"
+        },
+        "position": "Digital Transformation Manager",
+        "start_date": "2019-01",
+        "end_date": "Present",
+        "duration": 2.1,
+        "is_current": true,
+        "responsibilities": [
+          "Lean and Digital Transformation Consultancy",
+          "Digital Transformation solutions implementation",
+          "Business development for Turkey and Middle East"
+        ],
+        "achievements": [],
+        "technologies": [],
+        "keywords": [
+          "Lean",
+          "Digital Transformation",
+          "Consultancy"
+        ]
+      },
+      {
+        "company": {
+          "name": "Bosch Turkiye",
+          "industry": "Manufacturing",
+          "location": "Turkey"
+        },
+        "position": "Senior Project Manager | Consultant",
+        "start_date": "2017-10",
+        "end_date": "2019-01",
+        "duration": 1.3,
+        "is_current": false,
+        "responsibilities": [
+          "Consultancy for 14.0 and loT",
+          "Project Management and Design Thinking to execute projects",
+          "Digital maturity analysis of the shop-floor operations and identify the best business use cases",
+          "Developing Industry4.0 implementation roadmap and strategy"
+        ],
+        "achievements": [],
+        "technologies": [
+          "IoT"
+        ],
+        "keywords": [
+          "Consultancy",
+          "Project Management",
+          "Design Thinking",
+          "Industry 4.0"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Yildiz Teknik Universitesi",
+        "degree": "Elektrik Mühendisliği",
+        "field": "Engineering",
+        "start_date": "2006",
+        "end_date": "2010",
+        "gpa": null,
+        "honors": []
+      },
+      {
+        "institution": "Bahcesehir Universitesi",
+        "degree": "MBA-Master of Business Administration",
+        "field": "Business Administration",
+        "start_date": "2013",
+        "end_date": "2014",
+        "gpa": null,
+        "honors": []
+      },
+      {
+        "institution": "Yildiz Teknik Universitesi",
+        "degree": "Makine Muhendisligi",
+        "field": "Engineering",
+        "start_date": "2004",
+        "end_date": "2010",
+        "gpa": null,
+        "honors": []
+      },
+      {
+        "institution": "Erickson Coaching International",
+        "degree": "Coaching",
+        "field": "Coaching",
+        "start_date": "2019",
+        "end_date": "2020",
+        "gpa": null,
+        "honors": []
+      }
+    ],
+    "skills": {
+      "technical": [
+        {
+          "category": "Project Management",
+          "skills": [
+            "Lean",
+            "Digital Transformation",
+            "Consultancy",
+            "Design Thinking",
+            "Industry 4.0"
+          ],
+          "proficiency": "Expert"
+        }
+      ],
+      "soft": [
+        "Problem Solving",
+        "Leadership",
+        "Communication"
+      ],
+      "languages": [
+        {
+          "language": "Spanish",
+          "proficiency": "Native or Bilingual"
+        },
+        {
+          "language": "German",
+          "proficiency": "Professional Working"
+        }
+      ]
+    },
+    "metrics": {
+      "profile_strength": {
+        "score": 0.8,
+        "factors": {
+          "experience_depth": 0.8,
+          "education_quality": 0.7,
+          "skills_relevance": 0.9,
+          "achievements_impact": 0.7,
+          "presentation_quality": 0.8
+        }
+      }
+    },
+    "analysis_summary": {
+      "strengths": [
+        "Strong technical skills",
+        "Extensive experience in digital transformation",
+        "Multilingual"
+      ],
+      "improvement_areas": [
+        "More details on achievements and their impact",
+        "More details on technologies used"
+      ],
+      "unique_selling_points": [
+        "Extensive experience in digital transformation",
+        "Strong project management skills",
+        "Multilingual"
+      ],
+      "career_level_assessment": "Senior Manager",
+      "industry_fit": [
+        "Manufacturing",
+        "Digital Transformation",
+        "Consultancy"
+      ],
+      "next_career_suggestions": [
+        "Digital Transformation Director",
+        "Consultancy Director"
+      ]
+    }
+  }
+}

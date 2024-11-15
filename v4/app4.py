@@ -616,4 +616,5 @@ def main():
         logger.error(f"Application error: {str(e)}")
 
 if __name__ == "__main__":
-    main()
+    # main()
+    pass

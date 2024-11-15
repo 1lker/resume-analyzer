@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Resume Analysis Dashboard</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Chart.js library -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- WordCloud2.js library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wordcloud2.js/1.0.6/wordcloud2.min.js"></script>
+    <!-- Three.js library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+</head>
+<body class="bg-gray-50">
+    <div class="container mx-auto p-6">
+        <h1 class="text-3xl font-bold text-center mb-8">Resume Analysis Dashboard</h1>
+        <!-- File Upload Section -->
+        <div class="flex items-center justify-center mb-8">
+            <input type="file" id="resumeInput" class="border p-2 rounded">
+            <button id="uploadBtn" class="bg-blue-500 text-white px-4 py-2 ml-4 rounded hover:bg-blue-600 transition duration-300 ease-in-out">Upload Resume</button>
+        </div>
+        <p id="loading" class="hidden text-center text-blue-500">Loading...</p>
+
+        <!-- Analysis Table -->
+        <div class="bg-white shadow rounded-lg p-6 mb-8">
+            <h2 class="text-2xl font-semibold mb-4">Saved Analyses</h2>
+            <div class="overflow-x-auto">
+                <table id="analysisTable" class="min-w-full bg-white">
+                    <thead class="bg-gray-100">
+                        <tr>
+                            <th class="py-3 px-6 text-left">Analysis ID</th>
+                            <th class="py-3 px-6 text-left">Name</th>
+                            <th class="py-3 px-6 text-center">Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody class="text-gray-700"></tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Detailed Analysis View -->
+        <div id="details" class="hidden">
+            <div class="bg-white shadow rounded-lg p-6">
+                <div class="flex justify-between items-center mb-4">
+                    <h2 class="text-2xl font-semibold">Analysis Details</h2>
+                    <button onclick="closeDetails()" class="text-red-500 hover:text-red-600 transition duration-300 ease-in-out">&times;</button>
+                </div>
+                <div id="analysisOutput" class="grid grid-cols-1 md:grid-cols-2 gap-6"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+openai
+pdf2image
+pytesseract
+python-dotenv
+logging
+opencv-python-headless
+numpy
+Pillow
+dataclasses
